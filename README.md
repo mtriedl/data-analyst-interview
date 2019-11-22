@@ -1,6 +1,6 @@
 # Data Analyst Technical Test
 
-This is the repository containing instructions and base data for a technical assessment. The purpose is to guage your technicaly abilities.
+This is the repository containing instructions and base data for a technical assessment. The purpose is to gauge your technical abilities.
 
 ## Overview
 
