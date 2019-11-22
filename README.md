@@ -4,12 +4,13 @@ This is the repository containing instructions and base data for a technical ass
 
 ## Overview
 
-To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate.
+Please answer the questions below using one or a combination of the Python, SQL, and Excel.
 
 ### Python
 
-If you haven't used Jupyter before, here's how to get yourself set up:
+To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate.
 
+If you haven't used Jupyter before, here's how to get yourself set up:
 <https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter>
 
 ### SQL/Excel
@@ -45,6 +46,7 @@ If you are comfortable in more than one, please feel free to share one or more s
 ## Submission
 
 Please send your answer in an email to Matthew & Emily and include any supporting files or scripts necessary to understand how you arrived at those answers.
+
 Your response should be well annotated in the chosen format. If Excel or SQL are used, be sure to provide both the response and demonstrated workings to each question.
 
 ### Good luck!
