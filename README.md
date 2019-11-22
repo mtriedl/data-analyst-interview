@@ -36,7 +36,7 @@ To make sure that this test can run on any machine, we're using SQLite: https://
 
 We have provided an example Python notebook showing how to connect to, and how to query the database using SQL. 
 
-# The Test!
+# The Questions!
 
 We'd like you to answer the following questions, using the method of your choice (Python, SQL or Excel)
 
