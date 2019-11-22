@@ -44,7 +44,7 @@ If you are comfortable in more than one, please feel free to share one or more s
 * Who are the top 10 artists by the number of artworks?
 * Which artist is created the most artwork by total surface area?
 * Did any artists have artwork acquired during their lifetime?
-* Please review the quality of the data, and present any issues
+* Please review the quality of the data and present any issues
 
 ## The submission
 
