@@ -1,7 +1,7 @@
 # Tate Data Analyst Technical Test
-This is the repository containing instructions and base data for a technical test for analysts 
+This is the repository containing instructions and base data for a technical assessment. The purpose is to guage your technicaly abilities.
 
-# Set up
+# Overview
 
 To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate.
 
@@ -10,29 +10,21 @@ If you haven't used Jupyter before, here's how to get yourself set up:
 
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 
-## R
-If you'd like to use **R** to respond to this test, then if you don't know how to set it up locally, this link gives instructions:
-
-https://www.datacamp.com/community/blog/jupyter-notebook-r
-
-If you would prefer to use a different tool, please feel free.
-
 ## SQL
 
-It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
+It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated - including the query used to answer each question. 
 
+## Excel
+It is possible to answer this test using Excel alone. If this is your preference, please ensure your Excel file is well annotated.
 
 # Submission
 
-Please return your code and results to osman.yilmaz@tate.org.uk.  
-
-The end-date for submissions is midnight on Tuesday 22 May 2018.  
-
+Please return your analysis and results via email to Matthew & Emily. 
 Please do not return the database via email (it's quite large!)
 
 # The Data
 
-The data used for this test is sourced from the **Museum of Modern Art data on Kaggle**: https://www.kaggle.com/momanyc/museum-collection
+The data used for this assessment is sourced from the **Museum of Modern Art data on Kaggle**: https://www.kaggle.com/momanyc/museum-collection
 
 ## Content
 
@@ -46,7 +38,7 @@ We have provided an example Python notebook showing how to connect to, and how t
 
 # The Test!
 
-We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
+We'd like you to answer the following questions, using the method of your choice (Python, SQL or Excel)
 
 If you are comfortable in more than one, please feel free to share one or more solutions in a different language. 
 
@@ -55,10 +47,9 @@ If you are comfortable in more than one, please feel free to share one or more s
 * Which artist is created the most artwork by total surface area?
 * Did any artists have artwork acquired during their lifetime?
 * Please review the quality of the data, and present any issues
-* Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
 
-# The test submission
+# The submission
 
-Our preferred response is an annotated Jupyter notebook. However, clear responses using Excel or any other text editor will be accepted, provided both the response to each question and your workings are demonstrated.
+Your response should be well annotated in the chosen format. If Excel or SQL are used, be sure to provide both the response and demonstrated workings to each question.
 
 # Good luck!
