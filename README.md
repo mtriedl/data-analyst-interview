@@ -2,7 +2,7 @@
 
 This is the repository containing instructions and base data for a technical assessment. The purpose is to gauge your technical abilities.
 
-## The Assessment
+## Assessment
 
 We'd like you to answer the following questions, using the method of your choice (Python, SQL or Excel)
 
@@ -26,9 +26,9 @@ The artworks data set contains 130,262 records, representing all of the works th
 
 To make sure that this test can run on any machine, we're using SQLite: <https://www.sqlite.org/index.html>
 
-We have provided an example Python notebook showing how to connect to, and how to query the database using SQL.
+We have provided an example Python notebook showing how to connect to, and how to query the database using SQL. Alternatively, the data is also provided in an Excel file.
 
-## Technical Options
+## Solution Methods
 
 ### Python
 
