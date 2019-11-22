@@ -16,10 +16,6 @@ If you haven't used Jupyter before, here's how to get yourself set up:
 
 It is possible to answer this test using Excel or SQL alone. If this is your preference, please ensure your submission is well annotated - including any intermediate steps necessary to answer each question.
 
-## Submission
-
-Please return your analysis and results via email to Matthew & Emily.
-
 ## The Data
 
 The data used for this assessment is sourced from the **Museum of Modern Art data on Kaggle**: <https://www.kaggle.com/momanyc/museum-collection>
@@ -40,14 +36,15 @@ We'd like you to answer the following questions, using the method of your choice
 
 If you are comfortable in more than one, please feel free to share one or more solutions in a different language.
 
-* Which artist in this data set lived the longest?
-* Who are the top 10 artists by the number of artworks?
-* Which artist is created the most artwork by total surface area?
-* Did any artists have artwork acquired during their lifetime?
-* Please review the quality of the data and present any issues
+1) Which artist in this data set lived the longest?
+2) Who are the top 10 artists by the number of artworks?
+3) Which artist is created the most artwork by total surface area?
+4) Did any artists have artwork acquired during their lifetime?
+5) Please review the quality of the data and present any issues
 
-## The submission
+## Submission
 
+Please send your answer in an email to Matthew & Emily and include any supporting files or scripts necessary to understand how you arrived at those answers.
 Your response should be well annotated in the chosen format. If Excel or SQL are used, be sure to provide both the response and demonstrated workings to each question.
 
 ### Good luck!
