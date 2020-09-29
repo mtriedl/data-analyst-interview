@@ -43,7 +43,7 @@ It is possible to answer this test using Excel or SQL alone. If this is your pre
 
 ## Submission
 
-Please send your answer in an email to Matthew & Emily and include any supporting files or scripts necessary to understand how you arrived at those answers.
+Please send your answer in an email to Matthew and Julie and include any supporting files or scripts necessary to understand how you arrived at those answers.
 
 Your response should be well annotated in the chosen format. If Excel or SQL are used, be sure to provide both the response and demonstrated workings to each question.
 
